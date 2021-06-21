@@ -27,8 +27,8 @@
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "request": "^2.88.0",
-    "request-promise": "^4.2.4"
-    "glob-parent": ">=5.1.2",
+    "request-promise": "^4.2.4",
+    "glob-parent": ">=5.1.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
